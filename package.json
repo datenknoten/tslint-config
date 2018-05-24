@@ -1,0 +1,27 @@
+{
+    "name": "@datenknoten/tslint-config",
+    "version": "0.1.0",
+    "description": "A global tslint config for all datenknoten projects",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/datenknoten/tslint-config.git"
+    },
+    "keywords": [
+        "tslint",
+        "config"
+    ],
+    "author": "Tim Schumacher <tim@datenknoten.me>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/datenknoten/tslint-config/issues"
+    },
+    "homepage": "https://github.com/datenknoten/tslint-config#readme",
+    "dependencies": {
+        "tslint-sonarts": "1.6.0"
+    },
+    "private": false
+}
